@@ -127,3 +127,5 @@ echo puTTY; apt install -y putty
 
 # Needed for Wpilib on Ubuntu 22.04
 # http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
+
+apt install fortune-mod
