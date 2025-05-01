@@ -129,3 +129,4 @@ echo puTTY; apt install -y putty
 # http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
 
 apt install fortune-mod
+apt install bsdgames #wtf
