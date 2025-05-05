@@ -130,3 +130,4 @@ echo puTTY; apt install -y putty
 
 apt install fortune-mod
 apt install bsdgames #wtf
+apt install bettercap #wifi
