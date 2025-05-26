@@ -131,3 +131,5 @@ echo puTTY; apt install -y putty
 apt install fortune-mod
 apt install bsdgames #wtf
 apt install bettercap #wifi
+
+#if issues with spotdl, fix bitrate https://github.com/spotDL/spotify-downloader/issues/2333
