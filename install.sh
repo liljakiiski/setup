@@ -132,4 +132,6 @@ apt install fortune-mod
 apt install bsdgames #wtf
 apt install bettercap #wifi
 
+apt install k3b #CD/DVD burner
+
 #if issues with spotdl, fix bitrate https://github.com/spotDL/spotify-downloader/issues/2333
